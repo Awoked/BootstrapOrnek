@@ -1,0 +1,25 @@
+*{
+    scroll-behavior: smooth;
+}
+.buttons button{
+    padding: 10px;
+    font-size: .8rem;
+    cursor: pointer;
+}
+.album-example p{
+    font-size: 1rem;
+}
+.album-example{
+    margin: 2em 0 8em;
+}
+.cards{
+    width: 95%;
+    height: auto;
+}
+.thumbnail{
+    width: 90%;
+    height: 200px;
+}
+footer{
+    height: 6em;
+}
